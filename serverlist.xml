@@ -1,14 +1,14 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="01. SERVER UMUM RPV" ca="0" continent_code="ID" country="01" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
-<server name="02. SERVER ADMIN RVP" ca="0" continent_code="ID" country="02" country_code="ID" ip="198.24.160.150" port="34152" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
-<server name="03. CHANNEL KARAOKE" ca="0" continent_code="ID" country="03" country_code="ID" ip="rpv.nasional.online" port="64740" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="04. CHANNEL CEPU" ca="0" continent_code="ID" country="04" country_code="ID" ip="mb.puma-network.net" port="46586" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="05. CHANNEL PONOROGO" ca="0" continent_code="ID" country="05" country_code="ID" ip="mb.puma-network.net" port="46600" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="06. CHANNEL GROBOGAN" ca="0" continent_code="ID" country="06" country_code="ID" ip="mb.puma-network.net" port="46559" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="07. CHANNEL BLORA" ca="0" continent_code="ID" country="07" country_code="ID" ip="mb.puma-network.net" port="46583" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="08. CHANNEL REMBANG" ca="0" continent_code="ID" country="08" country_code="ID" ip="mb.puma-network.net" port="46582" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="09. CHANNEL BOJONEGORO" ca="0" continent_code="ID" country="09" country_code="ID" ip="mb.puma-network.net" port="46585" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="01. SERVER UMUM RPV" ca="0" continent_code="ID" country="01. RPV" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="02. SERVER ADMIN RVP" ca="0" continent_code="ID" country="02. RPV" country_code="ID" ip="198.24.160.150" port="34152" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="03. CHANNEL KARAOKE" ca="0" continent_code="ID" country="03. RPV" country_code="ID" ip="rpv.nasional.online" port="64740" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="04. CHANNEL CEPU" ca="0" continent_code="ID" country="04. JAWATENGAH" country_code="ID" ip="mb.puma-network.net" port="46586" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="05. CHANNEL PONOROGO" ca="0" continent_code="ID" country="05. JAWATIMUR" country_code="ID" ip="mb.puma-network.net" port="46600" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="06. CHANNEL GROBOGAN" ca="0" continent_code="ID" country="06. JAWATENGAH" country_code="ID" ip="mb.puma-network.net" port="46559" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="07. CHANNEL BLORA" ca="0" continent_code="ID" country="07. JAWATENGAH" country_code="ID" ip="mb.puma-network.net" port="46583" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="08. CHANNEL REMBANG" ca="0" continent_code="ID" country="08. JAWATIMUR" country_code="ID" ip="mb.puma-network.net" port="46582" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="09. CHANNEL BOJONEGORO" ca="0" continent_code="ID" country="09. JAWATIMUR" country_code="ID" ip="mb.puma-network.net" port="46585" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
 
   
