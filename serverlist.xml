@@ -12,7 +12,9 @@
 <server name="10. CHANNEL JAMBI" ca="0" continent_code="ID" country="10. JAMBI" country_code="ID" ip="mb.puma-network.net" port="46752" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="11. CHANNEL MEDAN" ca="0" continent_code="ID" country="11. SUMATRA" country_code="ID" ip="mb.puma-network.net" port="46755" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="12. CHANNEL KOSONG" ca="0" continent_code="ID" country="09. BELOM ADA ADR" country_code="ID" ip="mb.puma-network.net" port="46757" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="13. CHANNEL KOSONG" ca="0" continent_code="ID" country="09. BELOM ADA ADR" country_code="ID" ip="mb.puma-network.net" port="46758" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
+
 
 
 
