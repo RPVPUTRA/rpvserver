@@ -4,7 +4,6 @@
 <server name="03. CHANNEL KARAOKE" ca="0" continent_code="ID" country="03. RPV" country_code="ID" ip="rpv.nasional.online" port="64740" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="04. CHANNEL REMBANG" ca="0" continent_code="ID" country="03. RPV" country_code="ID" ip="mb.puma-network.net" port="46582" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="05. CHANNEL PONOROGO" ca="0" continent_code="ID" country="03. RPV" country_code="ID" ip="mb.puma-network.net" port="46600" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="06. CHANNEL LAMONGAN" ca="0" continent_code="ID" country="03. RPV" country_code="ID" ip="mb.puma-network.net" port="46768" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
 
 
