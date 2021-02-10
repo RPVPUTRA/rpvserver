@@ -17,7 +17,9 @@
 <server name="14. CHANNEL KOSONG" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46756" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="15. CHANNEL KOSONG" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46753" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="16. CHANNEL KOSONG" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46754" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="17. CHANNEL PURWODADI" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46760" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
+
 
 
 
