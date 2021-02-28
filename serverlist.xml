@@ -1,5 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
+<server name="[[[[ 000. CHANNEL ADMIN RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ RPV. CHANNEL DOA BERSAMA ]]]]" ca="0" continent_code="ID" country="00. KUSUS" country_code="ID" ip="mb.puma-network.net" port="46765" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ RPV. KANTOR DAN MUSIK ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
 <server name="[[[[ RPV. SIARAN RADIO LIVE ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="47154" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
@@ -13,12 +14,11 @@
 <server name="[[[[ 07. CHANNEL LAMPUNG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46757" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 08. CHANNEL LAMONGAN ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46761" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 09. ISTANA MODULASI DEMAK ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46762" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 10. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 11. CHANNEL MEDAN ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46755" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 12. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46756" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 13. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46753" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 14. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46754" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ 15. CHANNEL PURWODADI ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46760" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 10. CHANNEL MEDAN ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46755" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 11. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46756" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 12. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46753" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 13. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46754" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 14. CHANNEL PURWODADI ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46760" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
 
 
