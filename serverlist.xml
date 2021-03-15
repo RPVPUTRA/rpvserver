@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="[[[[ EDUKASI DAN REGIONAL RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="radioputra.romzi.online" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
+<server name="[[[[ .EDUKASI DAN REGIONAL RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="radioputra.romzi.online" port="64738" region="Rakomnet regional" url="http://radioputra.romzi.online" token=""/>
 <server name="[[[[ RPV. CHANNEL ADMIN RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ RPV. CHANNEL DOA BERSAMA ]]]]" ca="0" continent_code="ID" country="00. KUSUS" country_code="ID" ip="mb.puma-network.net" port="46765" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ RPV. SIARAN RADIO LIVE ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="47754" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
