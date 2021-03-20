@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="[[[[REGIONAL DAN KANTOR ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="101.255.4.194" port="64738" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
-<server name="[[[[ RPV. CHANNEL ADMIN  ]]]]" ca="0" continent_code="ID" country="00. KUSUS" country_code="ID" ip="mb.puma-network.net" port="46765" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ RPV. CHANNEL DOA BERSAMA  ]]]]" ca="0" continent_code="ID" country="00. KUSUS" country_code="ID" ip="mb.puma-network.net" port="46765" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ RPV. CHANNEL KARAOKR ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="rpv.nasional.online" port="64740" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 01. CHANNEL REMBANG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46582" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 02. CHANNEL PONOROGO ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46600" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
@@ -17,6 +17,7 @@
 <server name="[[[[ 12. CHANNEL SRIKANDI  ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46753" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 13. CHANNEL KOSONG ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46754" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 <server name="[[[[ 14. CHANNEL PURWODADI ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46760" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 15. CHANNEL ADMIN RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
 
 
