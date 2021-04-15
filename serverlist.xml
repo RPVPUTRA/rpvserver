@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="[[[[ 15. CHANNEL ADMIN RPV ]]]]" ca="0" continent_code="ID" country="00. UMUM" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
+<server name="[[[[ 00. CHANNEL ADMIN RPV ]]]]" ca="0" continent_code="ID" country="00.CH" country_code="ID" ip="mb.puma-network.net" port="46763" region="Rakomnet regional" url="htpp://jasra.org.my" token=""/>
 </servers>
 
 
